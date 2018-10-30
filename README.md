@@ -2,7 +2,7 @@
 Because hand crafting a date string by hand for go modules is tedious
 
 ## Installation
-`go get github.com/etetzlaff/go-commit-to-date`
+`go install github.com/etetzlaff/go-commit-to-date`
 
 ## Usage
 ```
